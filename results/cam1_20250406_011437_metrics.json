@@ -1,0 +1,11 @@
+{
+    "video": "dataset/cam1.mp4",
+    "processing_time": 111.9262011051178,
+    "total_frames": 4941,
+    "avg_fps": 44.1451591237288,
+    "redetection_count": 0,
+    "avg_detection_time": 1.7295842034641583e-06,
+    "avg_tracking_time": NaN,
+    "avg_frame_processing_time": 0.0008803839819606464,
+    "visibility_stats": {}
+}
